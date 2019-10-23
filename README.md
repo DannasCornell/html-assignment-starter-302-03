@@ -1,10 +1,10 @@
 <!---
 
-GatorGrader example that contains a solution to a Java programming project:
-https://github.com/GatorEducator/java-assignment-solution-100-01
+GatorGrader example that contains a solution to a HTML programming project:
+https://github.com/GatorEducator/html-assignment-solution-302-03
 
 This is the companion "starter" repository (i.e., the repository given to students):
-https://github.com/GatorEducator/java-assignment-starter-100-01
+https://github.com/GatorEducator/html-assignment-starter-302-03
 
 Learn more about GatorGrader and its supported checks by visiting this web site:
 https://github.com/GatorEducator/gatorgrader
@@ -17,7 +17,7 @@ Problems? Raise an issue in the issue tracker for this assignment!
 
 <p align="center">
 <b>
-Automated assessment for an assignment on Java programming and technical writing in Markdown
+Automated assessment for an assignment on HTML programming and technical writing in Markdown
 </b>
 </p>
 
