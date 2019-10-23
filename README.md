@@ -323,10 +323,10 @@ We developed this assignment to work with the following software and versions:
 ## Reporting Problems
 
 If you have found a problem with this assignment's provided source code or
-documentation, then you can go to the [Java Assignment Solution
-100-01](https://github.com/GatorEducator/java-assignment-solution-100-01)
+documentation, then you can go to the [HTML Assignment Solution
+302-03](https://github.com/GatorEducator/html-assignment-solution-302-03)
 repository and [raise an
-issue](https://github.com/GatorEducator/java-assignment-solution-100-01/issues).
+issue](https://github.com/GatorEducator/html-assignment-solution-302-03/issues).
 If you have found a problem with the [GatorGrader
 tool](https://github.com/GatorEducator/gatorgrader) and the way that it checks
 your assignment, then you can also [raise an
@@ -356,7 +356,7 @@ grading](http://rtalbert.org/return-to-specs-grading-calculus/), the grade that
 a student receives on this assignment will have the following components:
 
 - **Percentage of Correct GatorGrader Checks**: Students are encouraged to
-  repeatedly try to implement a Java program that passes all of GatorGrader's
+  repeatedly try to implement a HTML program that passes all of GatorGrader's
   checks by, for instance, creating a program that produces the correct output.
   Students should also repeatedly revise their technical writing to ensure that
   it also passes all of GatorGrader's checks about, for instance, the length of
